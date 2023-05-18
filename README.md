@@ -17,7 +17,7 @@ A aplicação de Computação Gráfica é um projeto que envolve a criação de 
 1. Faça o clone deste repositório para o seu ambiente de desenvolvimento.
 2. No diretório raiz do projeto, execute o comando `npm install` para instalar as dependências.
 3. Execute o comando `npm start` para iniciar a aplicação em modo de desenvolvimento.
-4. Acesse a aplicação em seu navegador através do endereço `http://localhost:3000`.
+4. Acesse a aplicação em seu navegador através do endereço `http://localhost:3000`. 
 
 
 ## NPM (Node Package Manager)
@@ -40,9 +40,11 @@ O NPM também permite o uso de scripts definidos no arquivo `package.json`. Nest
 
 - (https://github.com/lucasconrado0) 
 
+## Vercel
+
 https://computacao-grafica-6rmejqbxu-lucasconrado0.vercel.app
 
-## Agradecimentos
+
 
 
 
